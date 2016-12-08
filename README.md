@@ -18,16 +18,16 @@ My personal bookmarks about learning Android
 	- [Google Map](#google-map)
 	- [JSON](#json)
 	- [Reactivate](#reactivate)
-	- [Rest/Network](#rest/-network)
+	- [Rest/Network](#restnetwork)
 		- [Volley](#volley)
 		- [Picasso](#picasso)
 	- [Notification](#notification)
 		- [FCM](#fcm)
 		- [GCM](#gcm)
-		- [OneSignal](#one-signal)
+		- [OneSignal](#onesignal)
 		- [Cheshmak](#cheshmak)
 - [Gradle](#gradle)
-- [Sample applications](#sample-applications)
+- [Sample Applications](#sample-applications)
 - [Test](#test)
 - [Tools](#tools)
 - [Tips](#tips)
@@ -36,7 +36,7 @@ My personal bookmarks about learning Android
  	- [Fonts](#fonts)
     - [Material Design](#material-design)
     - [Layout](#layout)
-	    - [ConstraintLayout](#constraint-layout)
+	    - [ConstraintLayout](#constraintlayout)
 
 
 
